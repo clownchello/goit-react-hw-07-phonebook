@@ -1,0 +1,16 @@
+.filter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.filterLabel {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.filterInput {
+  width: 200px;
+  margin-bottom: 20px;
+}
